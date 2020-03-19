@@ -1,0 +1,13 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source
+ProtoHmongMien,Proto-Hmong-Mien,hmon1336,Hmong-Mien,,,,,Hmong-Mien,Ratliff2010
+Jiwei,Jiwei,nort2748,North Hmongic,,,,,Hmong-Mien,Wang2015
+Yanghao,Yanghao,east2369,East Hmongic,,,,,Hmong-Mien,Wang2015
+Qibainong,Qibainong,buna1273,Bu-Nao Bunu,bwx,Eurasia,24.1025,107.711,Hmong-Mien,Wang2015
+Fuyuan,Fuyuan,luop1235,Luopohe Hmong,hml,Eurasia,26.8183,107.158,Hmong-Mien,Wang2015
+Wenjie,Wenjie,pahn1237,Pa-Hng,pha,Eurasia,22.8049,105.165,Hmong-Mien,Wang2015
+Changdong,Changdong,jion1236,Jiongnai Bunu,pnu,Eurasia,23.8692,110.007,Hmong-Mien,Wang2015
+Duozhu,Duozhu,shee1238,She,shx,Eurasia,23.0399,114.814,Hmong-Mien,Wang2015
+Luoxiang,Luoxiang,iumi1238,Iu Mien,ium,Eurasia,20.83,101.17,Hmong-Mien,Wang2015
+Liangzi,Liangzi,kimm1245,Kim Mun,mji,Eurasia,22.9856,105.024,Hmong-Mien,Wang2015
+Sanjiang,Sanjiang,biao1256,Biao Mon,bmt,Eurasia,24.6451,113.469,Hmong-Mien,Wang2015
+Daping,Daping,dzao1238,Dzao Min,bpn,Eurasia,24.9754,112.326,Hmong-Mien,Wang2015
