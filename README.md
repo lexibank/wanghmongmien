@@ -15,8 +15,8 @@ Conceptlists in Concepticon:
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 87%](https://img.shields.io/badge/BIPA-87%25-yellowgreen.svg "BIPA: 87%")
-![CLTS SoundClass: 87%](https://img.shields.io/badge/CLTS%20SoundClass-87%25-yellowgreen.svg "CLTS SoundClass: 87%")
+![BIPA: 91%](https://img.shields.io/badge/BIPA-91%25-green.svg "BIPA: 91%")
+![CLTS SoundClass: 91%](https://img.shields.io/badge/CLTS%20SoundClass-91%25-green.svg "CLTS SoundClass: 91%")
 
 - **Varieties:** 12
 - **Concepts:** 62
@@ -24,9 +24,9 @@ Conceptlists in Concepticon:
 - **Sources:** 3
 - **Synonymy:** 1.08
 - **Invalid lexemes:** 0
-- **Tokens:** 3,141
-- **Segments:** 150 (19 BIPA errors, 19 CTLS sound class errors, 131 CLTS modified)
-- **Inventory size (avg):** 44.67
+- **Tokens:** 3,165
+- **Segments:** 144 (13 BIPA errors, 13 CTLS sound class errors, 131 CLTS modified)
+- **Inventory size (avg):** 43.83
 
 # Contributors
 
