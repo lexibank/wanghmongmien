@@ -11,19 +11,19 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Comparative Study of Miao-Yao Languages",
-    "dcat:accessURL": "https://github.com/lexibank/wanghmongmien",
+    "dcat:accessURL": "https://github.com/MacyL/wanghmongmien",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/wanghmongmien",
-            "dc:created": "109110f"
+            "rdf:about": "https://github.com/MacyL/wanghmongmien",
+            "dc:created": "cd8c928"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "eWAVE-3.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -34,14 +34,14 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.7.6"
         },
         {
             "dc:title": "python-packages",
