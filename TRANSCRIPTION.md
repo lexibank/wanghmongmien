@@ -5,11 +5,11 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 189 | ✓ | ✓ |
+| a | 188 | ✓ | ✓ |
 | u | 164 | ✓ | ✓ |
 | i | 162 | ✓ | ✓ |
 | ŋ | 147 | ✓ | ✓ |
-| p | 136 | ✓ | ✓ |
+| p | 138 | ✓ | ✓ |
 | e | 113 | ✓ | ✓ |
 | n | 112 | ✓ | ✓ |
 | t | 106 | ✓ | ✓ |
@@ -25,8 +25,8 @@
 | m | 69 | ✓ | ✓ |
 | ²² | 50 | ✓ | ✓ |
 | l | 49 | ✓ | ✓ |
+| w | 48 | ✓ | ✓ |
 | ⁵³ | 47 | ✓ | ✓ |
-| w | 46 | ✓ | ✓ |
 | ə | 39 | ✓ | ✓ |
 | ɛ | 37 | ✓ | ✓ |
 | ⁴² | 37 | ✓ | ✓ |
@@ -110,7 +110,6 @@
 | kʷ | 2 | ✓ | ✓ |
 | l̥ʰ | 2 | ✓ | ✓ |
 | oː | 2 | ✓ | ✓ |
-| pw | 2 | ? | ? |
 | pʐ | 2 | ✓ | ✓ |
 | tʂ | 2 | ✓ | ✓ |
 | x | 2 | ✓ | ✓ |
@@ -124,9 +123,6 @@
 | ʈʂʰ | 2 | ✓ | ✓ |
 | ʨw | 2 | ? | ? |
 | ⁿ | 2 | ? | ? |
-| <<(>> | 1 | ? | ? |
-| <<)>> | 1 | ? | ? |
-| <<7>> | 1 | ? | ? |
 | K | 1 | ? | ? |
 | cʰ | 1 | ✓ | ✓ |
 | eː | 1 | ✓ | ✓ |
@@ -150,7 +146,7 @@
 | ⁴⁵⁴ | 1 | ✓ | ✓ |
 | ⁿq | 1 | ✓ | ✓ |
 
-(144 rows)
+(140 rows)
 
 
 
@@ -166,13 +162,10 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:--------------------------------|:---------------|:-----------------|:-------------------|:------------------------------------------------------|
-| Changdong-16_spicy-1 | Changdong | 16_spicy | mpwai32 I! | m <s> pw </s> a i ³² + |
-| Liangzi-1_hundred-1 | Liangzi | 1_hundred | pe24(7a) | p e ²⁴ <s> <<(>> </s> <s> <<7>> </s> a <s> <<)>> </s> |
+|:--------------------------------|:---------------|:-----------------|:-------------------|:------------------------------------------------|
 | Luoxiang-56_aunitofweight-1 | Luoxiang | 56_aunitofweight | ʨwan33 | <s> ʨw </s> a n ³³ |
 | ProtoHmongMien-10_full-1 | ProtoHmongMien | 10_full | pu̯ɛŋX | p u̯ ɛ ŋ <s> ↗ </s> |
 | ProtoHmongMien-11_hand-1 | ProtoHmongMien | 11_hand | bɔuX | b ɔ u <s> ↗ </s> |
-| ProtoHmongMien-12_snow-1 | ProtoHmongMien | 12_snow | mpwtsən5 | m <s> pw </s> ts ə n ⁵ |
 | ProtoHmongMien-14_fish-1 | ProtoHmongMien | 14_fish | mbrəuX | m b r ə u <s> ↗ </s> |
 | ProtoHmongMien-15_bambooshoot-1 | ProtoHmongMien | 15_bambooshoot | mbdʐai6 | m b ɖʐ a i <s> ⁶ </s> |
 | ProtoHmongMien-16_spicy-2 | ProtoHmongMien | 16_spicy | mbdʐa:t8 | m b ɖʐ aː t <s> ⁸ </s> |
@@ -217,6 +210,6 @@
 | ProtoHmongMien-8_fruit-1 | ProtoHmongMien | 8_fruit | pji̯əuX | p j i̯ ə u <s> ↗ </s> |
 | Sanjiang-56_aunitofweight-1 | Sanjiang | 56_aunitofweight | ʨwən33 | <s> ʨw </s> ə n ³³ |
 
-(49 rows)
+(46 rows)
 
 
