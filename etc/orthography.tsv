@@ -1,9 +1,8 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-)	NULL				
-(   NULL
 ʔ	ʔ				
+    NULL                
 a	a	pja42, tɬa33	Changdong, ProtoHmongMien, Yanghao, Duozhu, Fuyuan, Wenjie, Jiwei, Qibainong	100	U+0061
 u	u	hu44, ʈu221	ProtoHmongMien, Luoxiang, Fuyuan, Yanghao, Changdong, Liangzi, Duozhu, Jiwei	100	U+0075
 i	i	pi35, pi44	Duozhu, ProtoHmongMien, Jiwei, Yanghao, Luoxiang, Changdong, Fuyuan, Wenjie	100	U+0069
@@ -95,7 +94,7 @@ ts	ts	ntsᴀ:u3, pwtsuəŋ3	ProtoHmongMien, Jiwei	7	U+0074 U+0073
 12$	¹²	klun12, mai12	Sanjiang	6	U+0031 U+0032 U+0024
 i$	i	Kəi, pljei	ProtoHmongMien	5	U+0069 U+0024
 -	NULL	N-ɟuə, N-tat	ProtoHmongMien	5	U+002d
-^pw	pw	pwaŋ31, pwtsuəŋ3	ProtoHmongMien, Luoxiang	5	U+005e U+0070 U+0077
+^pw	p w	pwaŋ31, pwtsuəŋ3	ProtoHmongMien, Luoxiang	5	U+005e U+0070 U+0077
 z	z	dzu44, dzjat22	Daping, ProtoHmongMien	5	U+007a
 4$	⁴	mɦɪ 4, mbdʐau4	ProtoHmongMien, Wenjie	5	U+0034 U+0024
 ɐ	ɐ	mɐŋ44, ŋklɐi1	ProtoHmongMien, Changdong	5	U+0250
@@ -128,7 +127,7 @@ I!	NULL	vi42 I! T!, ʦʰei44 I! F!	Daping, Luoxiang, Jiwei, Changdong	4	U+0049 U
 u$	u	pjɔu, -ʔrəu	ProtoHmongMien	3	U+0075 U+0024
 ^ʦʰ	tsʰ	ʦʰe35, ʦʰei44 I! F!	Duozhu, ProtoHmongMien, Jiwei	3	U+005e U+02a6 U+02b0
 ^N	ⁿ	N-ɟuə, Nqo35 I!	ProtoHmongMien, Wenjie	3	U+005e U+004e
-^ȵw	ȵw	ȵwan31, ȵwɐ:n2	ProtoHmongMien, Luoxiang	3	U+005e U+0235 U+0077
+^ȵw	ȵ w	ȵwan31, ȵwɐ:n2	ProtoHmongMien, Luoxiang	3	U+005e U+0235 U+0077
 dʐ	ɖʐ	mbdʐa:t8, mbdʐai6	ProtoHmongMien	3	U+0064 U+0290
 kʰ	kʰ	ŋkʰlaŋ1, ŋkʰeŋ343	Changdong, ProtoHmongMien	3	U+006b U+02b0
 ^ɳ	ɳ	ɳtʂʰja:m3, ɳtʃei53	Changdong, ProtoHmongMien	3	U+005e U+0273
@@ -200,14 +199,14 @@ tʂ	ʈʂ	ptʂa1	ProtoHmongMien	1	U+0074 U+0282
 e:	eː	ʔne:i3	ProtoHmongMien	1	U+0065 U+003a
 ɒ:	ɒː	ʔnlɒ:m1	ProtoHmongMien	1	U+0252 U+003a
 ^tʂʰ	ʈʂʰ	tʂʰæŋ1	ProtoHmongMien	1	U+005e U+0074 U+0282 U+02b0
-^tʂʰw	tʂʰw	tʂʰwo:i3	ProtoHmongMien	1	U+005e U+0074 U+0282 U+02b0 U+0077
+^tʂʰw	tʂʰ w	tʂʰwo:i3	ProtoHmongMien	1	U+005e U+0074 U+0282 U+02b0 U+0077
 tʂʰ	ʈʂʰ	ɳtʂʰja:m3	ProtoHmongMien	1	U+0074 U+0282 U+02b0
 ɐ:	ɐː	ȵwɐ:n2	ProtoHmongMien	1	U+0250 U+003a
-^ʔw	ʔw	ʔwɔu2	ProtoHmongMien	1	U+005e U+0294 U+0077
+^ʔw	ˀw	ʔwɔu2	ProtoHmongMien	1	U+005e U+0294 U+0077
 ^cʰ	cʰ	cʰɛt7	ProtoHmongMien	1	U+005e U+0063 U+02b0
 ^ɲ	ɲ	ɲcə1	ProtoHmongMien	1	U+005e U+0272
 c	c	ɲcə1	ProtoHmongMien	1	U+0063
-^cw	cw	cwɪ:n1	ProtoHmongMien	1	U+005e U+0063 U+0077
+^cw	tsʷ	cwɪ:n1	ProtoHmongMien	1	U+005e U+0063 U+0077
 ɪ:	ɪː	cwɪ:n1	ProtoHmongMien	1	U+026a U+003a
 ^ɯ	ɯ	ɯ35	Jiwei	1	U+005e U+026f
 ^ʂ	ʂ	ʂɛ35	Jiwei	1	U+005e U+0282
@@ -218,18 +217,18 @@ c	c	ɲcə1	ProtoHmongMien	1	U+0063
 瓜$	NULL	fa33瓜	Yanghao	1	U+74dc U+0024
 h	h	ȵ̥ hoŋ35	Yanghao	1	U+0068
 ^a	a	au33	Fuyuan	1	U+005e U+0061
-454$	<?>	to454	Fuyuan	1	U+0034 U+0035 U+0034 U+0024
+454$	⁴⁵⁴	to454	Fuyuan	1	U+0034 U+0035 U+0034 U+0024
 tsʰ	tsʰ	ntsʰəŋ43	Fuyuan	1	U+0074 U+0073 U+02b0
-13	<?>	ʨo13 F!	Fuyuan	1	U+0031 U+0033
+13	¹³	ʨo13 F!	Fuyuan	1	U+0031 U+0033
 tɕ	tɕ	ȵtɕe33	Fuyuan	1	U+0074 U+0255
 ɛ̃	ɛ̃	tʰɛ̃55 F!	Wenjie	1	U+025b U+0303
-^qw	qw	qwa35	Wenjie	1	U+005e U+0071 U+0077
+^qw	q w	qwa35	Wenjie	1	U+005e U+0071 U+0077
 ^tɕ	tɕ	tɕa53	Wenjie	1	U+005e U+0074 U+0255
 ɪ̃	ɪ̃	hɪ̃35	Wenjie	1	U+026a U+0303
 ʨ	tɕ	ȵʨe31	Wenjie	1	U+02a8
 q	q	Nqo35 I!	Wenjie	1	U+0071
 ɣ	ɣ	qɣ35	Wenjie	1	U+0263
-kw	kʷ	ŋkwe31	Changdong	1	U+006b U+0077
+kw	k w	ŋkwe31	Changdong	1	U+006b U+0077
 tʃ	tʃ	ɳtʃei53	Changdong	1	U+0074 U+0283
 tw	tw	ntwaŋ35 I!	Changdong	1	U+0074 U+0077
 ^nw	nw	nwaŋ22 I!	Changdong	1	U+005e U+006e U+0077
@@ -245,3 +244,11 @@ tw	tw	ntwaŋ35 I!	Changdong	1	U+0074 U+0077
 24	²⁴	baŋ24 F!	Daping	1	U+0032 U+0034
 ^ɛ	ɛ	ɛi44	Daping	1	U+005e U+025b
 -ʔ	ʔ	ɛi44	Daping	1	U+005e U+025b
+^tʂ	tʂ				
+cw	tsʷ				
+^Nq	ⁿq									
+A)	NULL									
+B)	NULL									
+C)	NULL									
+D)	NULL									
+(5’)6$	NULL									
