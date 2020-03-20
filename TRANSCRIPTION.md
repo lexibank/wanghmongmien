@@ -11,9 +11,9 @@
 | ŋ | 147 | ✓ | ✓ |
 | p | 136 | ✓ | ✓ |
 | e | 113 | ✓ | ✓ |
-| n | 111 | ✓ | ✓ |
+| n | 112 | ✓ | ✓ |
+| t | 104 | ✓ | ✓ |
 | ³³ | 104 | ✓ | ✓ |
-| t | 103 | ✓ | ✓ |
 | j | 102 | ✓ | ✓ |
 | + | 98 | ✓ | ✓ |
 | ³⁵ | 98 | ✓ | ✓ |
@@ -37,7 +37,7 @@
 | d | 27 | ✓ | ✓ |
 | h | 25 | ✓ | ✓ |
 | tɕ | 24 | ✓ | ✓ |
-| w | 21 | ✓ | ✓ |
+| w | 23 | ✓ | ✓ |
 | ⁴³ | 21 | ✓ | ✓ |
 | ³² | 20 | ✓ | ✓ |
 | kʷ | 18 | ✓ | ✓ |
@@ -100,7 +100,6 @@
 | ʃ | 4 | ✓ | ✓ |
 | ⁸ | 4 | ? | ? |
 | mʐ | 3 | ✓ | ✓ |
-| tw | 3 | ? | ? |
 | ²³² | 3 | ✓ | ✓ |
 | õ | 3 | ✓ | ✓ |
 | ɕʰ | 3 | ✓ | ✓ |
@@ -109,13 +108,12 @@
 | ˀw | 3 | ✓ | ✓ |
 | θʰ | 3 | ✓ | ✓ |
 | ⁵⁴ | 3 | ✓ | ✓ |
-| <<!>> | 2 | ? | ? |
-| <<F>> | 2 | ? | ? |
 | bw | 2 | ? | ? |
 | l̥ʰ | 2 | ✓ | ✓ |
 | oː | 2 | ✓ | ✓ |
 | pw | 2 | ? | ? |
 | pʐ | 2 | ✓ | ✓ |
+| tw | 2 | ? | ? |
 | tʂ | 2 | ✓ | ✓ |
 | x | 2 | ✓ | ✓ |
 | xʰ | 2 | ✓ | ✓ |
@@ -135,7 +133,6 @@
 | cʰ | 1 | ✓ | ✓ |
 | eː | 1 | ✓ | ✓ |
 | kʰw | 1 | ? | ? |
-| nw | 1 | ? | ? |
 | pʰ | 1 | ✓ | ✓ |
 | r̯ | 1 | ? | ? |
 | tsʷ | 1 | ✓ | ✓ |
@@ -159,7 +156,7 @@
 | ⁴⁵⁴ | 1 | ✓ | ✓ |
 | ⁿq | 1 | ✓ | ✓ |
 
-(153 rows)
+(150 rows)
 
 
 
@@ -177,10 +174,6 @@
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
 |:--------------------------------|:---------------|:-----------------|:-------------------|:------------------------------------------------------|
 | Changdong-16_spicy-1 | Changdong | 16_spicy | mpwai32 I! | m <s> pw </s> a i ³² + |
-| Changdong-27_charcoal-1 | Changdong | 27_charcoal | tʰɔu53(3) F! T! | tʰ ɔ u ⁵³ + <s> <<F>> </s> <s> <<!>> </s> + |
-| Changdong-31_wearcap-1 | Changdong | 31_wearcap | ntwaŋ35 I! | n <s> tw </s> a ŋ ³⁵ + |
-| Changdong-35_bird-1 | Changdong | 35_bird | nwaŋ22 I! | <s> nw </s> a ŋ ²² + |
-| Daping-13_five-1 | Daping | 13_five | pjɛ42(5) F!T! | p j ɛ ⁴² + <s> <<F>> </s> <s> <<!>> </s> |
 | Duozhu-11_hand-1 | Duozhu | 11_hand | kʰwa42 | <s> kʰw </s> a ⁴² |
 | Liangzi-1_hundred-1 | Liangzi | 1_hundred | pe24(7a) | p e ²⁴ <s> <<(>> </s> <s> <<7>> </s> a <s> <<)>> </s> |
 | Luoxiang-37_tail-1 | Luoxiang | 37_tail | twei53 | <s> tw </s> e i ⁵³ |
@@ -238,6 +231,6 @@
 | ProtoHmongMien-8_fruit-1 | ProtoHmongMien | 8_fruit | pji̯əuX | p j i̯ ə u <s> ↗ </s> |
 | Sanjiang-56_aunitofweight-1 | Sanjiang | 56_aunitofweight | ʨwən33 | <s> ʨw </s> ə n ³³ |
 
-(61 rows)
+(57 rows)
 
 
