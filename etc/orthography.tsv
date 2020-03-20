@@ -191,10 +191,10 @@ X	↗	tsʰju̯əiX   nʦʰjamX	ProtoHmongMien	1	U+0058
 ə$	ə	N-ɟuə	ProtoHmongMien	1	U+0259 U+0024
 d	d	bwdzæu4	ProtoHmongMien	1	U+0064
 tʂ	ʈʂ	ptʂa1	ProtoHmongMien	1	U+0074 U+0282
-^vʐ	vʐ	vʐɐ 4	ProtoHmongMien	1	U+005e U+0076 U+0290
+^vʐ	v ʐ	vʐɐ 4	ProtoHmongMien	1	U+005e U+0076 U+0290
 ə:	əː	θə:i1	ProtoHmongMien	1	U+0259 U+003a
 θʰ	θʰ	tθʰ jet7	ProtoHmongMien	1	U+03b8 U+02b0
-θʰw	θʰw	tθʰwjɒəŋ3	ProtoHmongMien	1	U+03b8 U+02b0 U+0077
+θʰw	θʰ w	tθʰwjɒəŋ3	ProtoHmongMien	1	U+03b8 U+02b0 U+0077
 ɒ	ɒ	tθʰwjɒəŋ3	ProtoHmongMien	1	U+0252
 æ:	æː	ntæ:u3	ProtoHmongMien	1	U+00e6 U+003a
 e:	eː	ʔne:i3	ProtoHmongMien	1	U+0065 U+003a
@@ -238,8 +238,8 @@ tw	t w	ntwaŋ35 I!	Changdong	1	U+0074 U+0077
 343	³⁴³	ŋkʰeŋ343 I! θe53	Changdong	1	U+0033 U+0034 U+0033
 ʧ	tʃ	ɳʧa44	Changdong	1	U+02a7
 ^pʰ	pʰ	pʰun53	Duozhu	1	U+005e U+0070 U+02b0
-^kʰw	kʰw	kʰwa42	Duozhu	1	U+005e U+006b U+02b0 U+0077
-^ɕw	ɕw	ɕwai53	Luoxiang	1	U+005e U+0255 U+0077
+^kʰw	kʰ w	kʰwa42	Duozhu	1	U+005e U+006b U+02b0 U+0077
+^ɕw	ɕ w	ɕwai53	Luoxiang	1	U+005e U+0255 U+0077
 21	²¹	tan21 F!	Liangzi	1	U+0032 U+0031
 545	⁵⁴⁵	sa:m545 I!	Liangzi	1	U+0035 U+0034 U+0035
 24	²⁴	baŋ24 F!	Daping	1	U+0032 U+0034
@@ -253,4 +253,3 @@ B)	NULL
 C)	NULL									
 D)	NULL									
 (5’)6$	NULL									
-r̯	r̯									
