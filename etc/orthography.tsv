@@ -49,7 +49,7 @@ a:	aː	ma:i11, da:u545	Liangzi, Luoxiang, ProtoHmongMien	17	U+0061 U+003a
 55$	⁵⁵	ɬo55, paŋ55	Wenjie, Yanghao, Sanjiang, Luoxiang, Fuyuan	16	U+0035 U+0035 U+0024
 m	m	nim22, ȵemH	ProtoHmongMien, Liangzi, Luoxiang, Daping	15	U+006d
 ^v	v	vi33 I!, vu42 F!	Wenjie, Daping, Yanghao, Sanjiang, Duozhu, Changdong, Luoxiang, Fuyuan, Liangzi, ProtoHmongMien	15	U+005e U+0076
-X$	↗	pu̯ɛŋX, raX	ProtoHmongMien	14	U+0058 U+0024
+X$	X/¹⁵	pu̯ɛŋX, raX	ProtoHmongMien	14	U+0058 U+0024
 æ	æ	klæ35, klæŋ	ProtoHmongMien, Sanjiang	13	U+00e6
 ^ɕ	ɕ	ɕi44, ɕɛ35	Luoxiang, Jiwei, Sanjiang, Wenjie	13	U+005e U+0255
 24$	²⁴	hiŋ24, bɛu24	Daping, Liangzi, Qibainong	13	U+0032 U+0034 U+0024
@@ -60,7 +60,7 @@ X$	↗	pu̯ɛŋX, raX	ProtoHmongMien	14	U+0058 U+0024
 ɑ	ɑ	ʐɑ33, tɑ42	Jiwei, ProtoHmongMien	11	U+0251
 ^l	l	la35 I!, lu44	Sanjiang, Wenjie, Yanghao, Jiwei, Luoxiang, Daping, Fuyuan, Liangzi	11	U+005e U+006c
 13$	¹³	za13, ȵaŋ13	Yanghao, Fuyuan, Sanjiang	11	U+0031 U+0033 U+0024
-H$	↘	wouH, hlaH	ProtoHmongMien	10	U+0048 U+0024
+H$	H/⁵¹	wouH, hlaH	ProtoHmongMien	10	U+0048 U+0024
 ^ʈ	ʈ	ʈi221, ʈɭɔ:k5	Fuyuan, Jiwei, ProtoHmongMien	10	U+005e U+0288
 r	r	pra, mbrat	ProtoHmongMien	9	U+0072
 ^q	q	qlva1, qɣ35	Wenjie, ProtoHmongMien, Jiwei, Yanghao	9	U+005e U+0071
@@ -78,7 +78,7 @@ u̯	u̯	pu̯ɛŋX, pu̯eiH	ProtoHmongMien	7	U+0075 U+032f
 b	b	mbdʐai6, mbrat	ProtoHmongMien	7	U+0062
 t$	t	tʰ jet, kʰju̯ɛt	ProtoHmongMien	7	U+0074 U+0024
 ts	ts	ntsᴀ:u3, pwtsuəŋ3	ProtoHmongMien, Jiwei	7	U+0074 U+0073
-6$	⁶	mbdʐai6, ɖɭon6	ProtoHmongMien	7	U+0036 U+0024
+6$	⁶/⁵¹	mbdʐai6, ɖɭon6	ProtoHmongMien	7	U+0036 U+0024
 ɯ	ɯ	kɯ43, ʈɯ42 F!	Jiwei	7	U+026f
 ^ts	ts	tsji33, tsu43 I!	Yanghao, Daping, Sanjiang, Duozhu, Changdong	7	U+005e U+0074 U+0073
 41$	⁴¹	ɬo41, mpuŋ41	Fuyuan	7	U+0034 U+0031 U+0024
@@ -100,7 +100,7 @@ z	z	dzu44, dzjat22	Daping, ProtoHmongMien	5	U+007a
 4$	⁴	mɦɪ 4, mbdʐau4	ProtoHmongMien, Wenjie	5	U+0034 U+0024
 ɐ	ɐ	mɐŋ44, ŋklɐi1	ProtoHmongMien, Changdong	5	U+0250
 ^l̥	l̥	l̥a5, l̥a24	ProtoHmongMien, Qibainong, Changdong, Yanghao	5	U+005e U+006c U+0325
-7$	⁷	tθʰ jet7, ta: t7	ProtoHmongMien	5	U+0037 U+0024
+7$	⁷/³³	tθʰ jet7, ta: t7	ProtoHmongMien	5	U+0037 U+0024
 T!$	NULL	kʰji31 T!, ɕi55 T!	Duozhu, Yanghao, Jiwei, Daping, Luoxiang	5	U+0054 U+0021 U+0024
 33	³³	vi33 I!, fa33瓜	Sanjiang, Luoxiang, Yanghao	5	U+0033 U+0033
 ^ɣ	ɣ	ɣu33, ɣa33	Fuyuan, Yanghao	5	U+005e U+0263
@@ -110,7 +110,7 @@ T!$	NULL	kʰji31 T!, ɕi55 T!	Duozhu, Yanghao, Jiwei, Daping, Luoxiang	5	U+0054 
 k$	k	kruk, pæk	ProtoHmongMien	4	U+006b U+0024
 i̯	i̯	pji̯əuX, ȵwi̯ən	ProtoHmongMien	4	U+0069 U+032f
 2$	²	bwjᴀŋ2, ʔwɔu2	ProtoHmongMien	4	U+0032 U+0024
-8$	⁸	mbdʐa:t8, ʑᴀt8	ProtoHmongMien	4	U+0038 U+0024
+8$	⁸/⁴⁴	mbdʐa:t8, ʑᴀt8	ProtoHmongMien	4	U+0038 U+0024
 ɭ	ɭ	ʈɭot7, pɭoi1	ProtoHmongMien	4	U+026d
 ^ʑ	ʑ	ʑo21, ʑi33	ProtoHmongMien, Fuyuan, Jiwei, Yanghao	4	U+005e U+0291
 ^c	c	ce35, clɛ:ŋ1	ProtoHmongMien, Jiwei	4	U+005e U+0063
@@ -127,7 +127,7 @@ I!	NULL	vi42 I! T!, ʦʰei44 I! F!	Daping, Luoxiang, Jiwei, Changdong	4	U+0049 U
 ^w	w	wouH, wə42	ProtoHmongMien, Luoxiang, Jiwei	3	U+005e U+0077
 u$	u	pjɔu, -ʔrəu	ProtoHmongMien	3	U+0075 U+0024
 ^ʦʰ	tsʰ	ʦʰe35, ʦʰei44 I! F!	Duozhu, ProtoHmongMien, Jiwei	3	U+005e U+02a6 U+02b0
-^N	ⁿ	N-ɟuə, Nqo35 I!	ProtoHmongMien, Wenjie	3	U+005e U+004e
+^N-	n	N-ɟuə, Nqo35 I!	ProtoHmongMien, Wenjie	3	U+005e U+004e
 ^ȵw	ȵ w	ȵwan31, ȵwɐ:n2	ProtoHmongMien, Luoxiang	3	U+005e U+0235 U+0077
 dʐ	ɖʐ	mbdʐa:t8, mbdʐai6	ProtoHmongMien	3	U+0064 U+0290
 kʰ	kʰ	ŋkʰlaŋ1, ŋkʰeŋ343	Changdong, ProtoHmongMien	3	U+006b U+02b0
@@ -179,14 +179,14 @@ o:	oː	tʂʰwo:i3, klo:ŋ1	ProtoHmongMien	2	U+006f U+003a
 ^i	i	i35	Liangzi, Wenjie	2	U+005e U+0069
 ^u	u	u22, u44	Duozhu, Changdong	2	U+005e U+0075
 ^x	x	xɔ43喝, xoŋ44 I!	Changdong	2	U+005e U+0078
-^ʨw	ʨw	ʨwan33, ʨwən33	Sanjiang, Luoxiang	2	U+005e U+02a8 U+0077
+^ʨw	ʨ w	ʨwan33, ʨwən33	Sanjiang, Luoxiang	2	U+005e U+02a8 U+0077
 ^ʦ	ts	ʦæ35 I!, ʦeu13	Sanjiang	2	U+005e U+02a6
 ^r	r	raX	ProtoHmongMien	1	U+005e U+0072
 j$	j	suj	ProtoHmongMien	1	U+006a U+0024
 w	w	ntsæwX	ProtoHmongMien	1	U+0077
 ^K	K	Kəi	ProtoHmongMien	1	U+005e U+004b
-r̯	r̯	-hr̯əŋ	ProtoHmongMien	1	U+0072 U+032f
-X	↗	tsʰju̯əiX   nʦʰjamX	ProtoHmongMien	1	U+0058
+r̯	r	-hr̯əŋ	ProtoHmongMien	1	U+0072 U+032f
+X	X/¹⁵	tsʰju̯əiX   nʦʰjamX	ProtoHmongMien	1	U+0058
 ʦʰ	tsʰ	tsʰju̯əiX   nʦʰjamX	ProtoHmongMien	1	U+02a6 U+02b0
 ɟ	ɟ	N-ɟuə	ProtoHmongMien	1	U+025f
 ə$	ə	N-ɟuə	ProtoHmongMien	1	U+0259 U+0024
@@ -254,3 +254,5 @@ B)	NULL
 C)	NULL									
 D)	NULL									
 (5’)6$	NULL									
+^mb	ⁿb									
+^Kəi$	k əi ⁰									
