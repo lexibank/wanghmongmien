@@ -7,34 +7,34 @@
 |:----------|-------------:|:-------|:------------------|
 | a | 188 | ✓ | ✓ |
 | u | 164 | ✓ | ✓ |
-| i | 162 | ✓ | ✓ |
+| i | 161 | ✓ | ✓ |
 | ŋ | 147 | ✓ | ✓ |
 | p | 138 | ✓ | ✓ |
+| n | 114 | ✓ | ✓ |
 | e | 113 | ✓ | ✓ |
-| n | 112 | ✓ | ✓ |
 | t | 106 | ✓ | ✓ |
 | ³³ | 104 | ✓ | ✓ |
 | j | 102 | ✓ | ✓ |
 | + | 98 | ✓ | ✓ |
 | ³⁵ | 98 | ✓ | ✓ |
-| k | 88 | ✓ | ✓ |
+| k | 89 | ✓ | ✓ |
 | ⁴⁴ | 80 | ✓ | ✓ |
 | ɔ | 74 | ✓ | ✓ |
 | o | 71 | ✓ | ✓ |
 | ³¹ | 71 | ✓ | ✓ |
-| m | 69 | ✓ | ✓ |
+| m | 62 | ✓ | ✓ |
+| w | 50 | ✓ | ✓ |
 | ²² | 50 | ✓ | ✓ |
 | l | 49 | ✓ | ✓ |
-| w | 48 | ✓ | ✓ |
 | ⁵³ | 47 | ✓ | ✓ |
-| ə | 39 | ✓ | ✓ |
+| ə | 38 | ✓ | ✓ |
 | ɛ | 37 | ✓ | ✓ |
 | ⁴² | 37 | ✓ | ✓ |
 | ⁵⁵ | 36 | ✓ | ✓ |
-| b | 34 | ✓ | ✓ |
 | ²⁴ | 32 | ✓ | ✓ |
 | ȵ | 29 | ✓ | ✓ |
 | s | 28 | ✓ | ✓ |
+| b | 27 | ✓ | ✓ |
 | d | 27 | ✓ | ✓ |
 | h | 25 | ✓ | ✓ |
 | tɕ | 24 | ✓ | ✓ |
@@ -46,7 +46,7 @@
 | ts | 17 | ✓ | ✓ |
 | ɦ | 17 | ✓ | ✓ |
 | ʔ | 16 | ✓ | ✓ |
-| ↗ | 15 | ? | ? |
+| X/¹⁵ | 15 | ✓ | ✓ |
 | tʰ | 14 | ✓ | ✓ |
 | æ | 14 | ✓ | ✓ |
 | ɕ | 14 | ✓ | ✓ |
@@ -57,12 +57,12 @@
 | ¹³ | 12 | ✓ | ✓ |
 | ¹¹ | 12 | ✓ | ✓ |
 | kʰ | 11 | ✓ | ✓ |
+| r | 11 | ✓ | ✓ |
 | tsʰ | 11 | ✓ | ✓ |
 | ɑ | 11 | ✓ | ✓ |
-| r | 10 | ✓ | ✓ |
+| H/⁵¹ | 10 | ✓ | ✓ |
 | ʈ | 10 | ✓ | ✓ |
 | θ | 10 | ✓ | ✓ |
-| ↘ | 10 | ? | ? |
 | ⁵⁴⁵ | 9 | ✓ | ✓ |
 | g | 8 | ✓ | ✓ |
 | ²²¹ | 8 | ✓ | ✓ |
@@ -74,7 +74,8 @@
 | ȵ̥ | 7 | ✓ | ✓ |
 | ɣ | 7 | ✓ | ✓ |
 | ⁴¹ | 7 | ✓ | ✓ |
-| ⁶ | 7 | ? | ? |
+| ⁶/⁵¹ | 7 | ✓ | ✓ |
+| ⁿb | 7 | ✓ | ✓ |
 | f | 6 | ✓ | ✓ |
 | ¹² | 6 | ✓ | ✓ |
 | ȶ | 6 | ✓ | ✓ |
@@ -89,7 +90,7 @@
 | ɬ | 5 | ✓ | ✓ |
 | ʉ | 5 | ✓ | ✓ |
 | ⁴ | 5 | ✓ | ✓ |
-| ⁷ | 5 | ? | ? |
+| ⁷/³³ | 5 | ✓ | ✓ |
 | i̯ | 4 | ✓ | ✓ |
 | sʰ | 4 | ✓ | ✓ |
 | tɕʰ | 4 | ✓ | ✓ |
@@ -98,7 +99,7 @@
 | ɭ | 4 | ✓ | ✓ |
 | ʃ | 4 | ✓ | ✓ |
 | θʰ | 4 | ✓ | ✓ |
-| ⁸ | 4 | ? | ? |
+| ⁸/⁴⁴ | 4 | ✓ | ✓ |
 | mʐ | 3 | ✓ | ✓ |
 | ²³² | 3 | ✓ | ✓ |
 | õ | 3 | ✓ | ✓ |
@@ -121,13 +122,10 @@
 | ɖ | 2 | ✓ | ✓ |
 | ɛː | 2 | ✓ | ✓ |
 | ʈʂʰ | 2 | ✓ | ✓ |
-| ʨw | 2 | ? | ? |
-| ⁿ | 2 | ? | ? |
-| K | 1 | ? | ? |
+| ʨ | 2 | ✓ | ✓ |
 | cʰ | 1 | ✓ | ✓ |
 | eː | 1 | ✓ | ✓ |
 | pʰ | 1 | ✓ | ✓ |
-| r̯ | 1 | ? | ? |
 | tsʷ | 1 | ✓ | ✓ |
 | tʂʰ | 1 | ✓ | ✓ |
 | æː | 1 | ✓ | ✓ |
@@ -135,6 +133,7 @@
 | ɐː | 1 | ✓ | ✓ |
 | ɒ | 1 | ✓ | ✓ |
 | ɒː | 1 | ✓ | ✓ |
+| əi | 1 | ✓ | ✓ |
 | əː | 1 | ✓ | ✓ |
 | ɛ̃ | 1 | ✓ | ✓ |
 | ɟ | 1 | ✓ | ✓ |
@@ -143,6 +142,7 @@
 | ɲ | 1 | ✓ | ✓ |
 | ʂ | 1 | ✓ | ✓ |
 | ʈʂ | 1 | ✓ | ✓ |
+| ⁰ | 1 | ✓ | ✓ |
 | ⁴⁵⁴ | 1 | ✓ | ✓ |
 | ⁿq | 1 | ✓ | ✓ |
 
@@ -162,54 +162,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:--------------------------------|:---------------|:-----------------|:-------------------|:------------------------------------------------|
-| Luoxiang-56_aunitofweight-1 | Luoxiang | 56_aunitofweight | ʨwan33 | <s> ʨw </s> a n ³³ |
-| ProtoHmongMien-10_full-1 | ProtoHmongMien | 10_full | pu̯ɛŋX | p u̯ ɛ ŋ <s> ↗ </s> |
-| ProtoHmongMien-11_hand-1 | ProtoHmongMien | 11_hand | bɔuX | b ɔ u <s> ↗ </s> |
-| ProtoHmongMien-14_fish-1 | ProtoHmongMien | 14_fish | mbrəuX | m b r ə u <s> ↗ </s> |
-| ProtoHmongMien-15_bambooshoot-1 | ProtoHmongMien | 15_bambooshoot | mbdʐai6 | m b ɖʐ a i <s> ⁶ </s> |
-| ProtoHmongMien-16_spicy-2 | ProtoHmongMien | 16_spicy | mbdʐa:t8 | m b ɖʐ aː t <s> ⁸ </s> |
-| ProtoHmongMien-17_urine-1 | ProtoHmongMien | 17_urine | raX | r a <s> ↗ </s> |
-| ProtoHmongMien-19_drink-2 | ProtoHmongMien | 19_drink | həp7 | h ə p <s> ⁷ </s> |
-| ProtoHmongMien-20_tongue-2 | ProtoHmongMien | 20_tongue | mblet8 | m b l e t <s> ⁸ </s> |
-| ProtoHmongMien-23_lacquer-2 | ProtoHmongMien | 23_lacquer | tθʰ jet7 | t θʰ + j e t <s> ⁷ </s> |
-| ProtoHmongMien-24_bone-1 | ProtoHmongMien | 24_bone | ʦʰuŋX | tsʰ u ŋ <s> ↗ </s> |
-| ProtoHmongMien-25_washhands-1 | ProtoHmongMien | 25_washhands | ntsæwX | n ts æ w <s> ↗ </s> |
-| ProtoHmongMien-26_wing-1 | ProtoHmongMien | 26_wing | N-tat | <s> ⁿ </s> t a t |
-| ProtoHmongMien-26_wing-2 | ProtoHmongMien | 26_wing | ta: t7 | t aː + t <s> ⁷ </s> |
-| ProtoHmongMien-27_charcoal-1 | ProtoHmongMien | 27_charcoal | tʰanH | tʰ a n <s> ↘ </s> |
-| ProtoHmongMien-28_fire-1 | ProtoHmongMien | 28_fire | douX | d o u <s> ↗ </s> |
-| ProtoHmongMien-29_die-1 | ProtoHmongMien | 29_die | dəjH | d ə j <s> ↘ </s> |
-| ProtoHmongMien-29_die-2 | ProtoHmongMien | 29_die | dɑi6 | d ɑ i <s> ⁶ </s> |
-| ProtoHmongMien-30_long-1 | ProtoHmongMien | 30_long | ntauX | n t a u <s> ↗ </s> |
-| ProtoHmongMien-32_this-1 | ProtoHmongMien | 32_this | ʔneinX | ʔ n e i n <s> ↗ </s> |
-| ProtoHmongMien-34_crossriver-1 | ProtoHmongMien | 34_crossriver | KwajH | kʷ a j <s> ↘ </s> |
-| ProtoHmongMien-36_moon-1 | ProtoHmongMien | 36_moon | hlaH | h l a <s> ↘ </s> |
-| ProtoHmongMien-37_tail-1 | ProtoHmongMien | 37_tail | tu̯eiX | t u̯ e i <s> ↗ </s> |
-| ProtoHmongMien-39_chicken-1 | ProtoHmongMien | 39_chicken | Kəi | <s> K </s> ə i |
-| ProtoHmongMien-3_sell-1 | ProtoHmongMien | 3_sell | mɛijH | m ɛ i j <s> ↘ </s> |
-| ProtoHmongMien-3_sell-2 | ProtoHmongMien | 3_sell | ma6 | m a <s> ⁶ </s> |
-| ProtoHmongMien-40_chopsticks-1 | ProtoHmongMien | 40_chopsticks | drouH | d r o u <s> ↘ </s> |
-| ProtoHmongMien-40_chopsticks-2 | ProtoHmongMien | 40_chopsticks | ɖəu6 | ɖ ə u <s> ⁶ </s> |
-| ProtoHmongMien-42_laugh-2 | ProtoHmongMien | 42_laugh | ʈɭot7 | ʈ ɭ o t <s> ⁷ </s> |
-| ProtoHmongMien-43_fat-1 | ProtoHmongMien | 43_fat | grəunH | g r ə u n <s> ↘ </s> |
-| ProtoHmongMien-43_fat-2 | ProtoHmongMien | 43_fat | ɖɭon6 | ɖ ɭ o n <s> ⁶ </s> |
-| ProtoHmongMien-44_high-1 | ProtoHmongMien | 44_high | -hr̯əŋ | h <s> r̯ </s> ə ŋ |
-| ProtoHmongMien-46_ash-1 | ProtoHmongMien | 46_ash | tsʰju̯əiX   nʦʰjamX | tsʰ j u̯ ə i <s> ↗ </s> + n tsʰ j a m <s> ↗ </s> |
-| ProtoHmongMien-48_heavy-1 | ProtoHmongMien | 48_heavy | hnjeinX | h n j e i n <s> ↗ </s> |
-| ProtoHmongMien-49_steal-1 | ProtoHmongMien | 49_steal | ȵemH | ȵ e m <s> ↘ </s> |
-| ProtoHmongMien-49_steal-2 | ProtoHmongMien | 49_steal | ȵɛ:m6 | ȵ ɛː m <s> ⁶ </s> |
-| ProtoHmongMien-4_taro-1 | ProtoHmongMien | 4_taro | wouH | w o u <s> ↘ </s> |
-| ProtoHmongMien-4_taro-2 | ProtoHmongMien | 4_taro | vəu6 | v ə u <s> ⁶ </s> |
-| ProtoHmongMien-51_eight-2 | ProtoHmongMien | 51_eight | ʑᴀt8 | ʑ ɑ̟ t <s> ⁸ </s> |
-| ProtoHmongMien-52_nine-1 | ProtoHmongMien | 52_nine | N-ɟuə | <s> ⁿ </s> ɟ u ə |
-| ProtoHmongMien-53_itchy-2 | ProtoHmongMien | 53_itchy | cʰɛt7 | cʰ ɛ t <s> ⁷ </s> |
-| ProtoHmongMien-54_ten-2 | ProtoHmongMien | 54_ten | fɑp8 | f ɑ p <s> ⁸ </s> |
-| ProtoHmongMien-58_road-1 | ProtoHmongMien | 58_road | kləuX | k l ə u <s> ↗ </s> |
-| ProtoHmongMien-5_sleep-1 | ProtoHmongMien | 5_sleep | pu̯eiH | p u̯ e i <s> ↘ </s> |
-| ProtoHmongMien-8_fruit-1 | ProtoHmongMien | 8_fruit | pji̯əuX | p j i̯ ə u <s> ↗ </s> |
-| Sanjiang-56_aunitofweight-1 | Sanjiang | 56_aunitofweight | ʨwən33 | <s> ʨw </s> ə n ³³ |
+||
 
-(46 rows)
+(0 rows)
 
 
