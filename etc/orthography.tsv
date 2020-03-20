@@ -150,7 +150,7 @@ p$	p	gju̯ɛp, hup	ProtoHmongMien	2	U+0070 U+0024
 n$	n	kwjan, ȵwi̯ən	ProtoHmongMien	2	U+006e U+0024
 ^bw	b w	bwjᴀŋ2, bwdzæu4	ProtoHmongMien	2	U+005e U+0062 U+0077
 ᴀ	ɑ̟	bwjᴀŋ2, ʑᴀt8	ProtoHmongMien	2	U+1d00
-pw	pw	mpwtsən5, mpwai32 I!	ProtoHmongMien, Changdong	2	U+0070 U+0077
+pw	p w	mpwtsən5, mpwai32 I!	ProtoHmongMien, Changdong	2	U+0070 U+0077
 ᴀ:	ɑː̟	qlvᴀ:i5, ntsᴀ:u3	ProtoHmongMien	2	U+1d00 U+003a
 v	v	qlva1, qlvᴀ:i5	ProtoHmongMien	2	U+0076
 ^tw	t w	twei53, twu3	ProtoHmongMien, Luoxiang	2	U+005e U+0074 U+0077
@@ -173,6 +173,7 @@ o:	oː	tʂʰwo:i3, klo:ŋ1	ProtoHmongMien	2	U+006f U+003a
 (5)	NULL				
 (6)	NULL				
 (7)	NULL				
+(7a)	NULL				
 ^θʰ	θʰ	θʰa32, θʰɔŋ54	Fuyuan	2	U+005e U+03b8 U+02b0
 ^ɬ	ɬ	ɬo41, ɬo55	Wenjie, Fuyuan	2	U+005e U+026c
 ^i	i	i35	Liangzi, Wenjie	2	U+005e U+0069
