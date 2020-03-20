@@ -1,10 +1,8 @@
 {
     "by_language": {
         "Changdong": {
-            "bipa_errors": [
-                "pw"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -400,9 +398,7 @@
                     "\u207fq"
                 ]
             },
-            "sclass_errors": [
-                "pw"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 16,
                 "a": 23,
@@ -416,15 +412,14 @@
                 "m": 7,
                 "n": 5,
                 "o": 3,
-                "p": 13,
-                "pw": 1,
+                "p": 14,
                 "t": 3,
                 "ts": 1,
                 "t\u0283": 7,
                 "t\u02b0": 1,
                 "u": 10,
                 "v": 1,
-                "w": 5,
+                "w": 6,
                 "x": 2,
                 "\u00b2\u00b2": 7,
                 "\u00b3\u00b2": 4,
@@ -2203,12 +2198,8 @@
             }
         },
         "Liangzi": {
-            "bipa_errors": [
-                "<<)>>",
-                "<<(>>",
-                "<<7>>"
-            ],
-            "general_errors": 3,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -2604,17 +2595,10 @@
                     "\u207fq"
                 ]
             },
-            "sclass_errors": [
-                "<<)>>",
-                "<<(>>",
-                "<<7>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 2,
-                "<<(>>": 1,
-                "<<)>>": 1,
-                "<<7>>": 1,
-                "a": 18,
+                "a": 17,
                 "a\u02d0": 7,
                 "b": 4,
                 "d": 5,
@@ -3104,17 +3088,16 @@
         },
         "ProtoHmongMien": {
             "bipa_errors": [
-                "\u2197",
-                "pw",
-                "\u2076",
-                "K",
-                "\u2078",
-                "r\u032f",
-                "\u2198",
                 "\u2077",
-                "\u207f"
+                "K",
+                "r\u032f",
+                "\u2078",
+                "\u2198",
+                "\u2197",
+                "\u207f",
+                "\u2076"
             ],
-            "general_errors": 46,
+            "general_errors": 45,
             "replacements": {
                 "+": [
                     "+"
@@ -3511,15 +3494,14 @@
                 ]
             },
             "sclass_errors": [
-                "\u2197",
-                "pw",
-                "\u2076",
-                "K",
-                "\u2078",
-                "r\u032f",
-                "\u2198",
                 "\u2077",
-                "\u207f"
+                "K",
+                "r\u032f",
+                "\u2078",
+                "\u2198",
+                "\u2197",
+                "\u207f",
+                "\u2076"
             ],
             "segments": {
                 "+": 6,
@@ -3547,8 +3529,7 @@
                 "n": 24,
                 "o": 8,
                 "o\u02d0": 2,
-                "p": 19,
-                "pw": 1,
+                "p": 20,
                 "q": 3,
                 "r": 10,
                 "r\u032f": 1,
@@ -3562,7 +3543,7 @@
                 "u": 34,
                 "u\u032f": 7,
                 "v": 4,
-                "w": 13,
+                "w": 14,
                 "z": 1,
                 "\u00b2": 4,
                 "\u00b3": 11,
@@ -5394,20 +5375,6 @@
     "stats": {
         "bad_words": [
             [
-                "Changdong-16_spicy-1",
-                "Changdong",
-                "16_spicy",
-                "mpwai32 I!",
-                "m <s> pw </s> a i \u00b3\u00b2 +"
-            ],
-            [
-                "Liangzi-1_hundred-1",
-                "Liangzi",
-                "1_hundred",
-                "pe24(7a)",
-                "p e \u00b2\u2074 <s> <<(>> </s> <s> <<7>> </s> a <s> <<)>> </s>"
-            ],
-            [
                 "Luoxiang-56_aunitofweight-1",
                 "Luoxiang",
                 "56_aunitofweight",
@@ -5427,13 +5394,6 @@
                 "11_hand",
                 "b\u0254uX",
                 "b \u0254 u <s> \u2197 </s>"
-            ],
-            [
-                "ProtoHmongMien-12_snow-1",
-                "ProtoHmongMien",
-                "12_snow",
-                "mpwts\u0259n5",
-                "m <s> pw </s> ts \u0259 n \u2075"
             ],
             [
                 "ProtoHmongMien-14_fish-1",
@@ -5737,26 +5697,22 @@
                 "<s> \u02a8w </s> \u0259 n \u00b3\u00b3"
             ]
         ],
-        "bad_words_count": 49,
+        "bad_words_count": 46,
         "bipa_errors": [
-            "\u2197",
-            "<<7>>",
-            "pw",
-            "\u02a8w",
-            "<<(>>",
-            "\u2076",
-            "K",
-            "\u2078",
-            "<<)>>",
-            "r\u032f",
-            "\u2198",
             "\u2077",
-            "\u207f"
+            "K",
+            "r\u032f",
+            "\u2078",
+            "\u2198",
+            "\u2197",
+            "\u207f",
+            "\u02a8w",
+            "\u2076"
         ],
-        "general_errors": 52,
+        "general_errors": 47,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 43.833333333333336,
+        "inventory_size": 43.41666666666667,
         "replacements": {
             "+": [
                 "+"
@@ -6153,27 +6109,20 @@
             ]
         },
         "sclass_errors": [
-            "\u2197",
-            "<<7>>",
-            "pw",
-            "\u02a8w",
-            "<<(>>",
-            "\u2076",
-            "K",
-            "\u2078",
-            "<<)>>",
-            "r\u032f",
-            "\u2198",
             "\u2077",
-            "\u207f"
+            "K",
+            "r\u032f",
+            "\u2078",
+            "\u2198",
+            "\u2197",
+            "\u207f",
+            "\u02a8w",
+            "\u2076"
         ],
         "segments": {
             "+": 98,
-            "<<(>>": 1,
-            "<<)>>": 1,
-            "<<7>>": 1,
             "K": 1,
-            "a": 189,
+            "a": 188,
             "a\u02d0": 17,
             "b": 34,
             "c": 5,
@@ -6198,8 +6147,7 @@
             "n": 112,
             "o": 71,
             "o\u02d0": 2,
-            "p": 136,
-            "pw": 2,
+            "p": 138,
             "p\u0290": 2,
             "p\u02b0": 1,
             "q": 13,
@@ -6220,7 +6168,7 @@
             "u": 164,
             "u\u032f": 7,
             "v": 19,
-            "w": 46,
+            "w": 48,
             "x": 2,
             "x\u02b0": 2,
             "z": 13,
