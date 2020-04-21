@@ -10,14 +10,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Comparative Study of Miao-Yao Languages",
+    "dc:title": "CLDF datset derived from Wang's \"Comparative Study of Miao-Yao Languages\" from 2015",
     "dcat:accessURL": "https://github.com/MacyL/wanghmongmien",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/MacyL/wanghmongmien",
-            "dc:created": "29c147e"
+            "dc:created": "878f6e1"
         },
         {
             "rdf:type": "prov:Entity",

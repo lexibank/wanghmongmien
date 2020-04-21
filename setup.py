@@ -25,5 +25,7 @@ setup(
     },
     install_requires=[
         'pylexibank>=1.1.1',
-    ]
+    ],
+    extras_require={"test": ["pytest-cldf"]},
+
 )

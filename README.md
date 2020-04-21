@@ -1,4 +1,4 @@
-# Comparative Study of Miao-Yao Languages
+# CLDF datset derived from Wang's "Comparative Study of Miao-Yao Languages" from 2015
 
 Cite the source dataset as
 
@@ -33,5 +33,6 @@ Conceptlists in Concepticon:
 Name | GitHub user | Role
 --- | --- | ---
 Johann-Mattis List | @LinguList | maintainer
+Mei-Shin Wu | @MacyL | maintainer
 
 
