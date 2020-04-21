@@ -1,7 +1,7 @@
 {
-    "title": "Comparative Study of Miao-Yao Languages",
+    "title": "CLDF datset derived from Wang's \"Comparative Study of Miao-Yao Languages\" from 2015",
     "license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "citation": "Wang, Feng. 2015. Sound Correspondence and the Comparative Study of Miao-Yao Languages. From the Perspective of the Pervasiveness of Sound Correspondences. Bulletin of Chinese Linguistics 8. 157-176.",
     "conceptlist": "Wang-2015-62",
-    "patron": "Johann-Mattis List"
+    "patron": "Mei-Shin Wu"
 }
