@@ -1,4 +1,4 @@
-# Comparative Study of Miao-Yao Languages
+# CLDF datset derived from Wang's "Comparative Study of Miao-Yao Languages" from 2015
 
 Cite the source dataset as
 
@@ -24,6 +24,15 @@ Conceptlists in Concepticon:
 - **Sources:** 3
 - **Synonymy:** 1.08
 - **Invalid lexemes:** 0
-- **Tokens:** 3,158
-- **Segments:** 140 (0 BIPA errors, 0 CTLS sound class errors, 140 CLTS modified)
-- **Inventory size (avg):** 43.42
+- **Tokens:** 2,856
+- **Segments:** 167 (0 BIPA errors, 0 CTLS sound class errors, 167 CLTS modified)
+- **Inventory size (avg):** 48.67
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Johann-Mattis List | @LinguList | maintainer
+Mei-Shin Wu | @MacyL | maintainer
+
+

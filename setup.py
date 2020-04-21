@@ -19,6 +19,9 @@ setup(
         'lexibank.dataset': [
             'wanghmongmien=lexibank_wanghmongmien:Dataset',
         ],
+        'cldfbench.commands': [
+            'wanghmongmien=wanghmongmiencommands',
+        ],
     },
     install_requires=[
         'pylexibank>=1.1.1',

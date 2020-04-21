@@ -1,8 +1,10 @@
 import attr
+import re
 from pathlib import Path
 from clldutils.misc import slug
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import Concept, Language
+from pylexibank.forms import FormSpec
 from pylexibank import progressbar
 
 
@@ -19,8 +21,11 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
-    #form_spec = FormSpec(
-    
+    form_spec = FormSpec(
+            missing_data=[""],
+            strip_inside_brackets=True,
+            brackets={"(": ")"}
+            )
 
     def cmd_makecldf(self, args):
 
@@ -47,16 +52,32 @@ class Dataset(BaseDataset):
                 self.languages)):
             for j, (concept, entry) in enumerate(list(row.items())[1:]):
                 if entry.strip():
-                    pidx = concepts.get(
-                                concept, 
-                                concepts.get(' '.join(concept.split(' ')[1:]), '?'))
-                    args.writer.add_form(
-                            Language_ID=language['ID'],
-                            Parameter_ID=pidx,
-                            Value=entry,
-                            Form=entry,
-                            Source=[language['Source']]
-                            )
+                    # preprocess of the string
+                    form=entry.split(" ")[0]
+                    # deal with the string without a tone
+                    if re.search(r'[XH\d$]', form):
+                        pidx = concepts.get(
+                                    concept, 
+                                    concepts.get(' '.join(concept.split(' ')[1:]), '?'))
+                        args.writer.add_form(
+                                Language_ID=language['ID'],
+                                Parameter_ID=pidx,
+                                Value=entry,
+                                Form=form,
+                                Source=[language['Source']]
+                                )
+                    else:
+                        formadd=''.join([form,'9'])
+                        pidx = concepts.get(
+                                    concept, 
+                                    concepts.get(' '.join(concept.split(' ')[1:]), '?'))
+                        args.writer.add_form(
+                                Language_ID=language['ID'],
+                                Parameter_ID=pidx,
+                                Value=entry,
+                                Form=formadd,
+                                Source=[language['Source']]
+                                )
                 
 
 
