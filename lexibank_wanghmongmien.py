@@ -19,7 +19,6 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
-    #form_spec = FormSpec(
     
 
     def cmd_makecldf(self, args):
@@ -54,7 +53,7 @@ class Dataset(BaseDataset):
                             Language_ID=language['ID'],
                             Parameter_ID=pidx,
                             Value=entry,
-                            Form=entry,
+                            Form=entry.replace(" ", "_"),
                             Source=[language['Source']]
                             )
                 

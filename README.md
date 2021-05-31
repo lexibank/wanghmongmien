@@ -1,10 +1,10 @@
-# Comparative Study of Miao-Yao Languages
+# CLDF datset derived from Wang's "Comparative Study of Miao-Yao Languages" from 2015
 
 Cite the source dataset as
 
 > Wang, Feng. 2015. Sound Correspondence and the Comparative Study of Miao-Yao Languages. From the Perspective of the Pervasiveness of Sound Correspondences. Bulletin of Chinese Linguistics 8. 157-176.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -24,6 +24,15 @@ Conceptlists in Concepticon:
 - **Sources:** 3
 - **Synonymy:** 1.08
 - **Invalid lexemes:** 0
-- **Tokens:** 3,158
-- **Segments:** 140 (0 BIPA errors, 0 CTLS sound class errors, 140 CLTS modified)
-- **Inventory size (avg):** 43.42
+- **Tokens:** 2,975
+- **Segments:** 143 (0 BIPA errors, 0 CTLS sound class errors, 143 CLTS modified)
+- **Inventory size (avg):** 45.58
+
+# Contributors
+
+Name | GitHub user | Descriptin | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | maintainer | Other
+Wang Feng | | data collector | Author
+
+

@@ -1,0 +1,29 @@
+{
+    "title": "CLDF datset derived from Wang's \"Comparative Study of Miao-Yao Languages\" from 2015",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Wang Feng"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Wang, Feng. 2015. Sound Correspondence and the Comparative Study of Miao-Yao Languages. From the Perspective of the Pervasiveness of Sound Correspondences. Bulletin of Chinese Linguistics 8. 157-176.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

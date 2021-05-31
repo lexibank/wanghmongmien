@@ -2,6 +2,5 @@
 
 Name | GitHub user | Descriptin | Role
 --- | --- | --- | ---
-Mei-Shin Wu | @MacyL | maintainer | Author
-Johann-Mattis List | @LinguList | maintainer | Author
-Wang Feng | | data collector | DataCollector
+Johann-Mattis List | @LinguList | maintainer | Other
+Wang Feng | | data collector | Author
